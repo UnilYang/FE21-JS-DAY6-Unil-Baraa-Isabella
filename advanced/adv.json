@@ -1,0 +1,30 @@
+var books = `[{
+    "title": "Six Easy Pieces",
+    "Author": "Richard Fenyman",
+    "year": 1994,
+    "read": true,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjLuGy2Zs6qgdHiAcI9mXYTmS18KdGjbnHw&usqp=CAU"
+},
+{
+    "title": "Can't Hurt Me",
+    "Author": "David Goggins",
+    "year":2018 ,
+    "read": false,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIUMim7snM-0UHNhr2H0LnFPqNeGdc_70dA&usqp=CAU"
+},
+{
+    "title": " AL Chemist",
+    "Author": "Paulo Coelho",
+    "year":1988 ,
+    "read": true,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cbbVNI2KlBT6sHlQnSYoE6ByA5fEciIcEA&usqp=CAU" 
+},
+{
+    "title": "Reele Analysis 1",
+    "Author": "Auzinger",
+    "year": 2021 ,
+    "read": true,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17yOEIoPIVXKvC3VsKAmOlDf-98zXGFUHWA&usqp=CAU"
+}
+
+]`;

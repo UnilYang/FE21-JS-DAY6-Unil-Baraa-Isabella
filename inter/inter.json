@@ -1,0 +1,85 @@
+let employees = `[{
+"Unique ID":"ID1",
+"First Name":"fName1",
+"Last Name":"lName1",
+"Email address":"eAdress1",
+"Job Title":"job1",
+"Salary": "salary1"
+
+},{"Unique ID":"ID2",
+    "First Name":"fName2",
+    "Last Name":"lName2",
+    "Email address":"eAdress2",
+    "Job Title":"job2",
+    "Salary": "salary2"
+
+},
+{
+    "Unique ID":"ID3",
+    "First Name":"fName3",
+    "Last Name":"lName3",
+    "Email address":"eAdress3",
+    "Job Title":"job3",
+    "Salary": "salary3"
+
+},
+{
+    "Unique ID":"ID4",
+    "First Name":"fName4",
+    "Last Name":"lName4",
+    "Email address":"eAdress4",
+    "Job Title":"job4",
+    "Salary": "salary4"
+},
+{
+    "Unique ID":"ID5",
+    "First Name":"fName5",
+    "Last Name":"lName5",
+    "Email address":"eAdress5",
+    "Job Title":"job5",
+    "Salary": "salary5"
+},
+{
+    "Unique ID":"ID6",
+    "First Name":"fName6",
+    "Last Name":"lName6",
+    "Email address":"eAdress6",
+    "Job Title":"job6",
+    "Salary": "salary6"
+    },
+    {"Unique ID":"ID7",
+        "First Name":"fName7",
+        "Last Name":"lName7",
+        "Email address":"eAdress7",
+        "Job Title":"job7",
+        "Salary": "salary7"
+    
+    },
+    {
+        "Unique ID":"ID8",
+        "First Name":"fName8",
+        "Last Name":"lName8",
+        "Email address":"eAdress8",
+        "Job Title":"job8",
+        "Salary": "salary8"
+    
+    },
+    {
+        "Unique ID":"ID9",
+        "First Name":"fName9",
+        "Last Name":"lName9",
+        "Email address":"eAdress9",
+        "Job Title":"job9",
+        "Salary": "salary9"
+    },
+    {
+        "Unique ID":"ID10",
+        "First Name":"fName10",
+        "Last Name":"lName10",
+        "Email address":"eAdress10",
+        "Job Title":"job10",
+        "Salary": "salary10"
+    }
+
+
+]`;

@@ -1,0 +1,73 @@
+let employees = `
+[{
+    "userId": "1234567",
+    "firstName": "Patrik",
+    "lastName": "Jonathan",
+    "emailAddress": "patrik.k.jonathan@gmail.com",
+    "jobTitleName": "Developer",
+    "salary": "90000"
+}, {
+    "userId": "4567891",
+    "firstName": "Tom",
+    "lastName": "Irani",
+    "emailAddress": "tomrirani@gmail.com",
+    "jobTitleName": "Analyst",
+    "salary": "56000"
+}, {
+    "userId": "2583374",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "emailAddress": "tomhanks@gmail.com",
+    "jobTitleName": "Program Directory",
+    "salary": "56000"
+}, {
+    "userId": "8337425",
+    "firstName": "Tim",
+    "lastName": "Hokens",
+    "emailAddress": "timhokens@gmail.com",
+    "jobTitleName": "Program Directory",
+    "salary": "75000"
+}, {
+    "userId": "3742576",
+    "firstName": "Theo",
+    "lastName": "Richard",
+    "emailAddress": "theorechard@gmail.com",
+    "jobTitleName": "Web Designer",
+    "salary": "62000"
+}, {
+    "userId": "4257673",
+    "firstName": "Baraa",
+    "lastName": "Salmon",
+    "emailAddress": "baraasalmon@gmail.com",
+    "jobTitleName": "Web Specialist",
+    "salary": "84000"
+}, {
+    "userId": "5767324",
+    "firstName": "Walter",
+    "lastName": "Salmon",
+    "emailAddress": "waltersalmon@gmail.com",
+    "jobTitleName": "VP Marketing",
+    "salary": "120000"
+}, {
+    "userId": "6732476",
+    "firstName": "Celia",
+    "lastName": "Walton",
+    "emailAddress": "celiawalton@gmail.com",
+    "jobTitleName": "VP Sales",
+    "salary": "55000"
+}, {
+    "userId": "3247667",
+    "firstName": "Elisabeth",
+    "lastName": "Fabian",
+    "emailAddress": "elisabethfabian@gmail.com",
+    "jobTitleName": "Financial Officer",
+    "salary": "69000"
+}, {
+    "userId": "4766723",
+    "firstName": "Timo",
+    "lastName": "Juarez",
+    "emailAddress": "timojuarez@gmail.com",
+    "jobTitleName": "President",
+    "salary": "150000"
+}]
+`
